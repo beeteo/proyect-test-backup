@@ -1,0 +1,14 @@
+{
+    "server": {
+        "name": "Bot-Test",
+        "id": "998401485345923112",
+        "bans": 4
+    },
+    "logs": {
+        "use": "true",
+        "channel": 1008083157830090782,
+        "text": {
+            "embedmode": "true"
+        }
+    }
+}
